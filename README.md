@@ -117,7 +117,4 @@ MIT License
 🤝 贡献
 欢迎提交Issue和Pull Request！
 
-📧 联系方式
-邮箱: hello@kidsfun.com
-电话: 400-123-4567
 🌟 让每个孩子都能快乐学习、健康成长！
